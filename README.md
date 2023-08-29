@@ -10,14 +10,14 @@
 - **AdonisJS**
   - [adonisjs-whatsapp](https://github.com/Bright-Hustle/adonisjs-whatsapp) - **[🚧 WIP]** 🔭 An Api wrapper for whatsapp all functionalities
   - [adonisjs-itr](https://github.com/CodeSyncr/adonisjs-itr) - **[🚧 WIP]** 🔭 An wrapper for Income Tax (INDIA) Return Filing and other apis
-  - [adonis-transmit]([https://github.com/Julien-R44/pretty-list-routes](https://github.com/Bright-Hustle/adonis-transmit)) - 🛣️ Implements An SSE(Server Side Events) functionalities to your app 
+  - [adonis-transmit](https://github.com/Bright-Hustle/adonis-transmit) - 🛣️ Implements An SSE(Server Side Events) functionalities to your app 
 
 - **Flutter**
-  - [flutter-zoom-sdk] (https://github.com/ark-brighthustle/flutter_zoom_sdk) - 💅 An adaptation of Zoom SDK to flutter as plugin with all necessary features and with Null Safety.
+  - [flutter-zoom-sdk](https://github.com/ark-brighthustle/flutter_zoom_sdk) - 💅 An adaptation of Zoom SDK to flutter as plugin with all necessary features and with Null Safety.
   - [instamojo](https://github.com/ark-brighthustle/instamojo) - 🏁 Instamojo SDK from Instamojo ported to flutter as plugin with all necessary features and with Null Safety.
   
 - **React Native**
-  - [factorify](https://github.com/Bright-Hustle/react-native-usage-stats-manager) - 🏭 About
+  - [react-native-usage-stats-manager](https://github.com/Bright-Hustle/react-native-usage-stats-manager) - 🏭 About
 Track user interactions in your React Native app with ease using the Android Usage Stats package.
 
 <details>
