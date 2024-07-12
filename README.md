@@ -9,7 +9,7 @@
 ⚡ **My latest open-source projects**
 
 - **AdonisJS**
-  - [adonisjs-whatsapp](https://github.com/CodeSyncr/adonisjs-whatsapp) - **[🚧 WIP]** 🔭 An Api wrapper for whatsapp all functionalities
+  - [adonisjs-whatsapp](https://github.com/CodeSyncr/adonisjs-whatsapp) - 🔭 An Api wrapper for whatsapp all functionalities
   - [adonisjs-itr](https://github.com/CodeSyncr/adonisjs-itr) - **[🚧 WIP]** 🔭 An wrapper for Income Tax (INDIA) Return Filing and other apis
   - [adonis-transmit](https://github.com/Bright-Hustle/adonis-transmit) - 🛣️ Implements An SSE(Server Side Events) functionalities to your app 
 
