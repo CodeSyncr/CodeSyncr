@@ -1,4 +1,4 @@
-[![MasterHead](https://media.licdn.com/dms/image/C4E16AQHEB4QYqvP7kA/profile-displaybackgroundimage-shrink_200_800/0/1616137925488?e=2147483647&v=beta&t=5qgE9XrwK88p9HvfHPi1CXaZNowCFxIvPtgG8umfGLQ)](https://kyash.in)
+[![MasterHead](https://ibb.co/JsKVHp5)](https://kyash.in)
 <h1 align="center">Hey ! 👋</h1>
 <div align="center">
   <p>
