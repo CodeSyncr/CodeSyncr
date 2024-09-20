@@ -1,4 +1,4 @@
-[![MasterHead](https://ibb.co/JsKVHp5)](https://kyash.in)
+[![MasterHead](https://i.ibb.co/mcGk4y6/0-gq-Ldd3-Wvu2-K0w-Kjr.jpg)](https://kyash.in)
 <h1 align="center">Hey ! 👋</h1>
 <div align="center">
   <p>
