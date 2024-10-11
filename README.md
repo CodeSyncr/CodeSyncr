@@ -26,7 +26,7 @@
 
 - **Dhanyatra**
   - [checkout-js](https://github.com/dhanyatra/checkout-js) - 🔭 An Dhanyatra js wrapper for handling payments over dhanyatra network
-  - [dhanyatra-doc](https://github.com/CodeSyncr/dhanyatra-docs) - **[🚧 WIP]** 🔭 Complete documentation for dhanyatra platform including api's and sdk's
+  - [dhanyatra-doc](https://github.com/dhanyatra/docs) - **[🚧 WIP]** 🔭 Complete documentation for dhanyatra platform including api's and sdk's
   - [react-native-dhanyatra](https://github.com/dhanyatra/react-native-dhanyatra) - 🛣️  An Dhanyatra react native wrapper for handling payments over android and ios sdk's
  
 - **Chronicals**
