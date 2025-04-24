@@ -19,6 +19,8 @@
 - **Flutter**
   - [flutter-zoom-sdk](https://github.com/ark-brighthustle/flutter_zoom_sdk) - 💅 An adaptation of Zoom SDK to flutter as plugin with all necessary features and with Null Safety.
   - [instamojo](https://github.com/ark-brighthustle/instamojo) - 🏁 Instamojo SDK from Instamojo ported to flutter as plugin with all necessary features and with Null Safety.
+  - [flutterwind](https://github.com/flutterwind/flutterwind) - 🛣️ Flutterwind is Flutter utility-first universal design system - inspired by Tailwind CSS.
+  - [vortex](https://github.com/vortex-flutter/vortex) - **[🚧 WIP]** Vortex is a powerful Flutter framework that brings the convenience and structure of Nuxt.js to Flutter development.
   
 - **React Native**
   - [react-native-usage-stats-manager](https://github.com/Bright-Hustle/react-native-usage-stats-manager) - 🏭 About Track user interactions in your React Native app with ease using the Android Usage Stats package.
